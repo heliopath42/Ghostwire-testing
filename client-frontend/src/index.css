@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Sidebar custom navigation text & icon styling */
+.sidebar-link {
+  color: #DDDDDD;
+}
+
+.sidebar-link svg {
+  stroke: #DDDDDD;
+}
